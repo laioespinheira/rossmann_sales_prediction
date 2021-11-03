@@ -54,8 +54,8 @@ Step 9 - Convert model performance to business values: The goal of this step is 
 Step 10 - Deployment of Model: The goal of this step is to publish the model in a cloud environment so that other people or services can use the results to improve the business decision. The cloud application platform choosed was Heroku.
 
 # 4. Top 3 Data Insights
-**H1:** Stores with closer competitors should sell less. 
-**FALSE** Stores with CLOSER COMPETITORS sells MORE.
+**H1:** Stores with closer competitors should sell less.__ 
+**FALSE** Stores with CLOSER COMPETITORS sells MORE.__
 
 ![sells competition closer](https://user-images.githubusercontent.com/67356304/140009245-9659f820-f6a8-4b6e-b239-7367f3bee959.jpg)
 
