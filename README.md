@@ -56,17 +56,17 @@ Step 10 - Deployment of Model: The goal of this step is to publish the model in 
 # 4. Top 3 Data Insights
 
 **H1:** Stores with bigger assortments should sell more.<br />
-**FALSE**. Stores with bigger assortments sells less.
+**FALSE**. Stores with bigger assortments sell less.
 
 ![types of assortment sales rossmann](https://user-images.githubusercontent.com/67356304/140271291-7015dac8-f253-4700-b56a-2d635d132311.jpg)
 
 **H2:** Stores with closer competitors should sell less.<br />
-**FALSE**. Stores with closer competitors sells more.
+**FALSE**. Stores with closer competitors sell more.
 
 ![sells competition closer](https://user-images.githubusercontent.com/67356304/140009245-9659f820-f6a8-4b6e-b239-7367f3bee959.jpg)
 
 **H11:** Stores should sell less on the weekend. <br />
-**TRUE**. Stores sells less on weekends.
+**TRUE**. Stores sell less on weekends.
 
 ![dayofweek sales](https://user-images.githubusercontent.com/67356304/140014586-f0f61b4f-0aba-447f-9bf1-75c588cb24fb.jpg)
 
