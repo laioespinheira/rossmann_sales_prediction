@@ -73,6 +73,12 @@ Step 10 - Deployment of Model: The goal of this step is to publish the model in 
 
 # 5. Machine Learning Model Applied
 
+* Average Model <br />
+* Linear Regression Model <br />
+* Linear Regression Regularized Model (Lasso) <br />
+* Random Forest Regressor <br />
+* XGBoost Regressor <br />
+
 # 6. Machine Learning Model Performance
 
 # 7. Business Results
