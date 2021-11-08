@@ -83,14 +83,20 @@ Step 10 - Deployment of Model: The goal of this step is to publish the model in 
 
 ![concat models ](https://user-images.githubusercontent.com/67356304/140694723-0b8022a9-af97-457a-a8c9-e40059245e5c.jpg)
 
-MAE: Mean Absolute Error
-MAPE: Mean Absolute Percentage Error
-RMSE: Root Mean Square Error
+MAE: Mean Absolute Error <br />
+MAPE: Mean Absolute Percentage Error <br />
+RMSE: Root Mean Square Error <br />
 
-# 7. Business Results
+# 7. Machine Learnig Performance after Hyperparemeter Fine Tuning
 
-# 8. Conclusions
+![xgboost after fine tunning](https://user-images.githubusercontent.com/67356304/140705229-b545619d-22c9-48be-bb4c-625651290711.jpg)
 
-# 9. Lessons Learned
+Despite the fact that the Random Forest Model presented a better performance, the XGBoost model was the chosen one for this project. The reason being that the XGBoost requires less space on the server when deployed, and also that the model has pretty much similar performance after we fine-tuned the XGBoost. So, the goal was to maximize our chosen model not only by performance, but by cost as well.
 
-# 10. Next Steps to Improve
+# 8. Business Results
+
+# 9. Conclusions
+
+# 10. Lessons Learned
+
+# 11. Next Steps to Improve
