@@ -81,6 +81,12 @@ Step 10 - Deployment of Model: The goal of this step is to publish the model in 
 
 # 6. Machine Learning Model Performance
 
+![concat models ](https://user-images.githubusercontent.com/67356304/140694723-0b8022a9-af97-457a-a8c9-e40059245e5c.jpg)
+
+MAE: Mean Absolute Error
+MAPE: Mean Absolute Percentage Error
+RMSE: Root Mean Square Error
+
 # 7. Business Results
 
 # 8. Conclusions
