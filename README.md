@@ -95,6 +95,12 @@ Despite the fact that the Random Forest Model presented a better performance, th
 
 # 8. Business Results
 
+Here is a sample with the business solution:
+![sample predictions rossmann](https://user-images.githubusercontent.com/67356304/140892420-54a96eee-989c-4175-8c22-90aaf0e62608.jpg)
+
+Calculated overall predictions, worst and best scenarios:
+![scenarios rossmann](https://user-images.githubusercontent.com/67356304/140891760-a26544ef-ecfd-4934-bc38-d24ffe5ae12d.jpg)
+
 # 9. Conclusions
 
 # 10. Lessons Learned
