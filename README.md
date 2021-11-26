@@ -107,8 +107,8 @@ To share the predictions I decided to use a Telegram Bot.<br/>
 First, I uploaded the model to the Heroku platform then I used Telegram's API to connect the bot to my model.<br/>
 That way the CFO can easily access the predictions by typing the store that he wants the prediction from.<br/>
 Here's how it works:<br/>
-file:///home/laio/Downloads/WhatsApp%20Image%202021-11-26%20at%2013.53.33.jpeg![image](https://user-images.githubusercontent.com/67356304/143533725-67d15a2e-5219-4856-a0c1-ca6b0dd852f7.png)
 
+<img src="https://user-images.githubusercontent.com/67356304/143533725-67d15a2e-5219-4856-a0c1-ca6b0dd852f7.png" width="100" height="100">
 
 
 # 10. Conclusions and next steps to improve
