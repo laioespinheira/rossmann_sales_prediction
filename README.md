@@ -108,7 +108,7 @@ First, I uploaded the model to the Heroku platform then I used Telegram's API to
 That way the CFO can easily access the predictions by typing the store that he wants the prediction from.<br/>
 Here's how it works:<br/>
 
-<img src="https://user-images.githubusercontent.com/67356304/143533725-67d15a2e-5219-4856-a0c1-ca6b0dd852f7.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/67356304/143533725-67d15a2e-5219-4856-a0c1-ca6b0dd852f7.png" width="350" height="650">
 
 
 # 10. Conclusions and next steps to improve
