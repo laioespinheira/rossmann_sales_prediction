@@ -103,11 +103,11 @@ Calculated overall predictions, worst and best scenarios:<br />
 
 # 9. Sharing the predictions
 
-To share the predictions I decided to use a Telegram Bot.
-First, I uploaded the model to the Heroku platform then I used Telegram's API to connect the bot to my model.
-That way the CFO can easily access the predictions by typing the store that he wants the prediction from.
+To share the predictions I decided to use a Telegram Bot.<br/>
+First, I uploaded the model to the Heroku platform then I used Telegram's API to connect the bot to my model.<br/>
+That way the CFO can easily access the predictions by typing the store that he wants the prediction from.<br/>
 Here's how it works:
-file:///home/laio/Downloads/WhatsApp%20Image%202021-11-26%20at%2010.28.19.jpeg
+https://ibb.co/7jTBqrc
 
 # 10. Conclusions
 
