@@ -101,8 +101,16 @@ Here is a sample with the business solution:
 Calculated overall predictions, worst and best scenarios:<br />
 ![scenarios rossmann](https://user-images.githubusercontent.com/67356304/140891760-a26544ef-ecfd-4934-bc38-d24ffe5ae12d.jpg)
 
-# 9. Conclusions
+# 9. Sharing the predictions
 
-# 10. Lessons Learned
+To share the predictions I decided to use a Telegram Bot.
+First, I uploaded the model to the Heroku platform then I used Telegram's API to connect the bot to my model.
+That way the CFO can easily access the predictions by typing the store that he wants the prediction from.
+Here's how it works:
+file:///home/laio/Downloads/WhatsApp%20Image%202021-11-26%20at%2010.28.19.jpeg
 
-# 11. Next Steps to Improve
+# 10. Conclusions
+
+# 11. Lessons Learned
+
+# 12. Next Steps to Improve
