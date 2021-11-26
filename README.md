@@ -107,10 +107,13 @@ To share the predictions I decided to use a Telegram Bot.<br/>
 First, I uploaded the model to the Heroku platform then I used Telegram's API to connect the bot to my model.<br/>
 That way the CFO can easily access the predictions by typing the store that he wants the prediction from.<br/>
 Here's how it works:<br/>
-https://i.ibb.co/mbYd3hs/Whats-App-Image-2021-11-26-at-10-28-19.jpg
+![image](https://user-images.githubusercontent.com/67356304/143517897-dbb9ffdb-7bd3-4deb-84dc-d20c106faebc.png)
 
-# 10. Conclusions
+# 10. Conclusions and next steps to improve
+Running the first CRISP-DM cycle we were able to deliver a solution that will help the CFO decide how much he wants to spend on the redevelopment of the stores.<br/>
+Now what would need to be decided is if the solution should go straight away through some improvements(run a second CRISP-DM cycle) or if there are any other priorities within the company.<br/>
+Here are some steps to be taken to improve the solution:<br/>
+ *  Put more functionalities on the Telegram Bot;<br/>
+ *  Fix some specific stores that have a 18%+ error;<br/>
+ *  Compare the model performance once the 6 weeks have gone by and make especific improvements.<br/>
 
-# 11. Lessons Learned
-
-# 12. Next Steps to Improve
